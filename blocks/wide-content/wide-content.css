@@ -1,0 +1,15 @@
+.wide-content {
+  padding: 0 48px 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+@media (max-width: 768px) {
+  .wide-content {
+    padding: 0 24px 0;
+  }
+}
+@media (max-width: 320px) {
+  .wide-content {
+    padding: 0 16px 0;
+  }
+}

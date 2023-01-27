@@ -1,0 +1,15 @@
+.narrow-content {
+  padding: 0 148px;
+  margin: 0 auto;
+}
+@media (max-width: 1024px) {
+  .narrow-content {
+    padding: 0 48px;
+  }
+}
+@media (max-width: 768px) {
+  .narrow-content {
+    padding: 0;
+  }
+}
+
