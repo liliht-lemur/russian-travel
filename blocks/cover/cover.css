@@ -4,7 +4,6 @@
   position: relative; 
   z-index: 2;
   background: url(../../images/cover-trains.png) center no-repeat;
-  background-size: cover;
 }
 @media (max-width: 1024px) {
   .cover {
