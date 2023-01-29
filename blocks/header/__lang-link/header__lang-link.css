@@ -8,10 +8,10 @@
   cursor: pointer;
   text-align: right;
   margin-bottom: 6px;
+  text-decoration: none;
 }
 .header__lang-link:last-child {
   padding-left: 18px;
-  text-decoration: none;
 }
 @media (max-width: 320px) {
   .header__lang-link {

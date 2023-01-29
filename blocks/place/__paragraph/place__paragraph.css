@@ -11,11 +11,4 @@
     line-height: 26px;
   }
 }
-.place__paragraph:last-child {
-  margin-top: 26px;
-}
-@media (max-width: 768px) {
-  .place__paragraph:last-child {
-    margin-top: 25px;
-  }
-}
+
