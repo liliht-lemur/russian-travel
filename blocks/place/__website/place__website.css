@@ -4,6 +4,7 @@
   line-height: 18px;
   color: #FFFFFF;
   align-self: end;
+  text-decoration: underline;
 }
 @media (max-width:320px) {
   .place__website {
