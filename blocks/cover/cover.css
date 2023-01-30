@@ -1,7 +1,7 @@
 .cover {
   margin-top: 92px;
   min-height: 740px;
-  position: relative; 
+  position: relative;
   z-index: 2;
   background: url(../../images/cover-trains.png) center no-repeat;
 }
