@@ -4,6 +4,9 @@
   position: relative;
   z-index: 2;
   background: url(../../images/cover-trains.png) center no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 @media (max-width: 1024px) {
   .cover {

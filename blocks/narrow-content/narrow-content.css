@@ -1,15 +1,17 @@
 .narrow-content {
-  padding: 0 148px;
-  margin: 0 auto;
+  padding-left: 148px;
+  padding-right: 148px;
 }
 @media (max-width: 1024px) {
   .narrow-content {
-    padding: 0 48px;
+    padding-left: 48px;
+    padding-right: 48px;
   }
 }
 @media (max-width: 768px) {
   .narrow-content {
-    padding: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 

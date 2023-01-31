@@ -1,13 +1,4 @@
 .place__website {
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 18px;
-  color: #FFFFFF;
-  align-self: end;
-  text-decoration: underline;
+  align-self: flex-end;
 }
-@media (max-width:320px) {
-  .place__website {
-    padding: 0 16px 0;
-  }
-}
+

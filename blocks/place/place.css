@@ -10,7 +10,6 @@
 }
 @media (max-width: 1024px) {
   .place {
-    grid-template-rows: 1fr auto;
     grid-template-columns: 440px 1fr;
     gap: 48px 32px;
   }
@@ -19,15 +18,7 @@
   .place {
     padding: 0 24px 0;
     margin-bottom: 73px;
-    grid-template-rows: 1fr auto;
     grid-template-columns: 340px 1fr;
-    gap: 48px 28px;
-  }
-}
-@media (max-width: 600px) {
-  .place {
-    grid-template-rows: 1fr auto;
-    grid-template-columns: 320px 1fr;
     gap: 48px 28px;
   }
 }
